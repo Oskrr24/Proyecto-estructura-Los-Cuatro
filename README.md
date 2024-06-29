@@ -12,7 +12,7 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
 
 1. Visita [Repl.it](https://repl.it/).
 2. Usa el link de abajo que te llevará directamente a la aplicación
-3. [Repl.it](https://replit.com/@oscarruizf/Tarea-1-estructura).
+3. [Repl.it](https://replit.com/@oscarruizf/Proyecto-Estructura#main.c).
 4. Presiona el botón "Run" para compilar y ejecutar la aplicación.
 
 # Funciones propias del programa
